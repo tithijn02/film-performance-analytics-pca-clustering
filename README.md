@@ -36,7 +36,7 @@ This can support:
 
 ## 🛠️ How it was done
 
-The analysis was conducted on a dataset of top-rated IMDb movies using key numerical features such as runtime, ratings, votes, and revenue. Principal Component Analysis (PCA) was applied to reduce dimensionality, with the first two components capturing over 70% of the variance, revealing strong relationships between variables :contentReference[oaicite:0]{index=0}.
+The analysis was conducted on a dataset of top-rated IMDb movies using key numerical features such as runtime, ratings, votes, and revenue. Principal Component Analysis (PCA) was applied to reduce dimensionality, with the first two components capturing over 70% of the variance, revealing strong relationships between variables.
 
 Clustering techniques (K-means and hierarchical clustering) were then used to identify distinct movie segments. The results showed clear groupings such as high-revenue blockbusters, critically acclaimed films with moderate revenue, and niche or independent productions with limited exposure.
 
